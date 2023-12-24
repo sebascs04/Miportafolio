@@ -100,14 +100,12 @@ const Experience = () => {
               sm:mt-[22px] mt-[16px] hover:bg-battleGray 
               hover:text-eerieBlack transition duration-[0.2s] 
               ease-in-out"
-              onClick={() => {
-                var link = document.createElement("a");
-                link.download = "archivo.pdf";
-                link.href = 'src/assets/personal/CV.pdf';
-                document.body.appendChild(link);
-                link.click();
-                document.body.removeChild(link);
-              }}
+              onClick={() => 
+              window.open(
+                'https://www.linkedin.com/in/sebastian-campos-salcedo-b311612a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app',
+                '_blank'
+              )
+            }
               onMouseOver={() => {
                 document
                   .querySelector('.download-btn')
