@@ -46,6 +46,7 @@ import WeGo from './company/WeGo.png';
 
 
 import TodoApp from './projects/TodoApp.png';
+import CardApp from './projects/CardApp.png'
 
 
 export {
@@ -85,5 +86,6 @@ export {
   python,
   ReactN,
   TodoApp,
+  CardApp,
   WeGo,
 };

@@ -13,6 +13,7 @@ import {
   nodejs,
   git,
   figma,
+  CardApp,
   TodoApp,
   WeGo,
   AngularJS,
@@ -125,6 +126,14 @@ const projects = [
     repo: 'https://github.com/sebascs04/Frontmentor-todo',
     demo: 'https://sebascs04.github.io/Frontmentor-todo/',
   },
+  {
+    id: 'project-2',
+    name: 'Interactive card form',
+    description: 'This project was a great way to practice DOM manipulation and form validation while also time, put my JS, HTML and CSS Responsive skills to the test.',
+    image: CardApp,
+    repo: 'https://github.com/sebascs04/Frontmentor07',
+    demo: 'https://sebascs04.github.io/Frontmentor07/',
+  }
 ];
 
 export { services, technologies, experiences, projects };
