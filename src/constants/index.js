@@ -15,6 +15,7 @@ import {
   figma,
   CardApp,
   TodoApp,
+  SpaceApp,
   WeGo,
   AngularJS,
   ReactN,
@@ -133,6 +134,14 @@ const projects = [
     image: CardApp,
     repo: 'https://github.com/sebascs04/Frontmentor07',
     demo: 'https://sebascs04.github.io/Frontmentor07/',
+  },
+  {
+    id: 'project-3',
+    name: 'Space tourism multi-page',
+    description: 'This project was one that I liked the most, since I was able to put into practice my knowledge about React Router, Framer Motion, and Responsive Design. I quite liked the space theme, I hope you like it.',
+    image: SpaceApp,
+    repo: 'https://github.com/sebascs04/Frontmentor08',
+    demo: 'https://sebascs04.github.io/Frontmentor08/',
   }
 ];
 

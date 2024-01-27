@@ -47,7 +47,7 @@ import WeGo from './company/WeGo.png';
 
 import TodoApp from './projects/TodoApp.png';
 import CardApp from './projects/CardApp.png'
-
+import SpaceApp from './projects/SpaceApp.png'
 
 export {
   bwmap,
@@ -87,5 +87,6 @@ export {
   ReactN,
   TodoApp,
   CardApp,
+  SpaceApp,
   WeGo,
 };
