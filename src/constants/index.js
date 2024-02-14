@@ -16,6 +16,7 @@ import {
   CardApp,
   TodoApp,
   SpaceApp,
+  CountriesApp,
   WeGo,
   AngularJS,
   ReactN,
@@ -142,7 +143,15 @@ const projects = [
     image: SpaceApp,
     repo: 'https://github.com/sebascs04/Frontmentor08',
     demo: 'https://sebascs04.github.io/Frontmentor08/',
-  }
+  },
+  {
+    id: 'project-4',
+    name: 'Rest countries API page',
+    description: 'Project based on the consumption of APIS to create a country search engine that includes a ark/light theme toggle.',
+    image: CountriesApp,
+    repo: 'https://github.com/sebascs04/Frontmentor09',
+    demo: 'https://sebascs04.github.io/Frontmentor09/',
+  },
 ];
 
 export { services, technologies, experiences, projects };

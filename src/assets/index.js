@@ -48,6 +48,7 @@ import WeGo from './company/WeGo.png';
 import TodoApp from './projects/TodoApp.png';
 import CardApp from './projects/CardApp.png'
 import SpaceApp from './projects/SpaceApp.png'
+import CountriesApp from './projects/CountriesApp.png'
 
 export {
   bwmap,
@@ -88,5 +89,6 @@ export {
   TodoApp,
   CardApp,
   SpaceApp,
+  CountriesApp,
   WeGo,
 };
