@@ -43,6 +43,7 @@ import python from './tech/python.png';
 
 
 import WeGo from './company/WeGo.png';
+import Sinfoto from './company/sinfoto.png';
 
 
 import TodoApp from './projects/TodoApp.png';
@@ -91,4 +92,5 @@ export {
   SpaceApp,
   CountriesApp,
   WeGo,
+  Sinfoto
 };

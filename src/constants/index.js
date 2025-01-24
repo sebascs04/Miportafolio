@@ -18,6 +18,7 @@ import {
   SpaceApp,
   CountriesApp,
   WeGo,
+  Sinfoto,
   AngularJS,
   ReactN,
   java,
@@ -115,7 +116,14 @@ const experiences = [
     company_name: 'WeGo',
     icon: WeGo,
     iconBg: '#333333',
-    date: 'Aug 2020 - Oct 2020',
+    date: 'Jan 2020 - Dec 2020',
+  },
+  {
+    title: 'Full Stack Developer Jr',
+    company_name: 'BTSYS',
+    icon: Sinfoto,
+    iconBg: '#333333',
+    date: 'Sep 2024 - Present',
   }
 ];
 
