@@ -101,10 +101,6 @@ const technologies = [
     icon: ReactN
   },
   {
-    name:'JAVA',
-    icon: java
-  },
-  {
     name: 'PYTHON',
     icon: python
   }

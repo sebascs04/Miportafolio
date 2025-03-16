@@ -37,9 +37,7 @@ const About = () => {
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-        I am a student of the Systems Engineering degree studying the 6th cycle of the degree, I am interested in the vast majority of programming languages, I have been learning them with great enthusiasm and attitude; 
-        Because of this, I have quite solid knowledge in: Python, Java, JavaScript, TypeScript. 
-        In addition to having knowledge in CSS, HTML5; I am enthusiastic about learning new technologies that help deliver a quality product, seeking innovative solutions, using the best practices and standards for easy maintenance in the future.
+        Systems Engineering student passionate about technology and software development. I've worked developing web applications from scratch, applying technologies such as PHP, JavaScript, and ReactJS, with a focus on scalable architecture and best development practices. I'm passionate about continuous learning, code optimization, and implementing efficient, secure, and maintainable solutions.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
